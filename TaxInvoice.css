@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    line-height: 75%;
+}
+
+p{
+    text-align: center;
+    line-height: 40%;
+}
+
+h3{
+    text-align: center;
+    line-height: 40%;
+}
+table{
+    border: 2px;
+    border-style:solid;
+    border-collapse: collapse ;
+    width: 100%;
+}
+td{
+    border-style:solid;
+}
